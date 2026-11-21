@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+venv/
+
+# 运行产物
+relay.log
+relay.log.1
+relay.out.log
+relay.err.log
